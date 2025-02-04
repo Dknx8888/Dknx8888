@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/cat-nickdevpfp.png" width="500px" alt="main_michael_fuchs"/>
+  <img src="resources/reduced-nickdevpfp.jpg" width="500px" alt="main_michael_fuchs"/>
 </p>
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
