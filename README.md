@@ -19,7 +19,7 @@ I am Nick Vu, an Honors Student pursuing Computer Science at Michigan State Univ
 
 - #### Tools and Libraries
 
-  [![My Skills](https://skillicons.dev/icons?i=mysql,sklearn,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,sklearn)](https://skillicons.dev)
 
 - #### Operating Systems
 
@@ -28,7 +28,7 @@ I am Nick Vu, an Honors Student pursuing Computer Science at Michigan State Univ
 ## &#x1f4c8;My GitHub stats
 
 <a href="https://github.com/Dknx8888/Dknx8888">
-  <img align="center" src="https://github-readme-stats-git-master-nicks-projects-a00a2f97.vercel.app/api/top-langs/?username=Dknx8888&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-git-master-nicks-projects-a00a2f97.vercel.app/api/top-langs/?username=Dknx8888&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
