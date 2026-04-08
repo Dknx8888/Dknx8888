@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I am Nick Vu, an Honors Student pursuing Computer Science at Michigan State University, USA. I am looking for internship opportunities in Software Development.
+I am Nick Vu, an Honors Student pursuing Computer Science at Michigan State University, USA. I am looking for opportunities in Software Development.
 
 ## Areas of interest
 - Software Development
