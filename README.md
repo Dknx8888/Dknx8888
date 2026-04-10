@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I am Nick Vu, an Honors Student pursuing Computer Science at Michigan State University, USA. I am looking for opportunities in Software Development.
+I’m a Computer Science student at Michigan State University graduating in May 2026, with interests in software engineering, backend development, and data-driven applications. I’ve worked across web development, AI/ML, and developer tools through internships, client projects, and personal projects. Right now, I’m continuing to strengthen my backend foundations, system design thinking, and problem-solving skills while looking for opportunities where I can contribute, learn from strong teams, and grow into a well-rounded software engineer.
 
 ## Areas of interest
 - Software Development
